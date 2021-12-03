@@ -10,11 +10,19 @@ Siamese-Networks
 |   |   build_siamese_pairs.py
 |   
 |
-└───2.
-|
-|
-|
-|
+└───2.Training_Siamese_Networks
+│   │   README.md
+|   |   train_siamese_network.py
+|   |   
+|   └─── pyimagesearch
+|   |   config.py
+|   |   siamese_network.py
+|   |   utils.py
+|   | 
+|   └─── output
+|   |    plot.png 
+|   |    siamese_model   
+|   
 |
 └───3.
 ```
