@@ -4,7 +4,7 @@
 
 In this mini-project, I will learn how to build image pairs for training siamese networks.
 
- * positive pair - pictures belonging to the same calss
+ * positive pair - pictures belonging to the same class
  * negative pair - pictures belonging to different classes
 
 ### Input
