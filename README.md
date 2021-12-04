@@ -11,15 +11,15 @@ Siamese-Networks
 |   
 |
 └───2.Training_Siamese_Networks
-│   │   README.md
-|   |   train_siamese_network.py
-|   |   
-|   └─── pyimagesearch
-|   |   config.py
-|   |   siamese_network.py
-|   |   utils.py
-|   | 
-|   └─── output
-|   |    plot.png 
-|   |    siamese_model   
+    │   README.md
+    |   train_siamese_network.py
+    |   
+    └─── pyimagesearch
+    |   config.py
+    |   siamese_network.py
+    |   utils.py
+    | 
+    └─── output
+    |    plot.png 
+    |    siamese_model   
 
