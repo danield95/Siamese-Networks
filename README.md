@@ -22,7 +22,4 @@ Siamese-Networks
 |   └─── output
 |   |    plot.png 
 |   |    siamese_model   
-|   
-|
-└───3.
-```
+
